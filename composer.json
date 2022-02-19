@@ -1,0 +1,19 @@
+{
+    "name": "lewis/reflection-vs-closure-get-object-vars",
+    "require-dev": {
+        "phpbench/phpbench": "^1.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Lewis\\ReflectionVsClosureGetObjectVars\\": "src/",
+            "Tests\\": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lewis Cowles",
+            "email": "lewis+github@cowles.uk"
+        }
+    ],
+    "require": {}
+}
